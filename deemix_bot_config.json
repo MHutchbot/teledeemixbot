@@ -1,0 +1,14 @@
+{
+  "spotify_client_id": "spotify_client_id_here",
+  "spotify_client_secret": "spotify_client_secret_here",
+  "max_playlist_tracks": 100,
+  "bot_token": "1525785068:AAHB5nWneDlY8p0XfhdIxzWHlKutoJ49WJ4",
+  "bot_username": "losthopebot",
+  "kill_python_process_cooldown": 5000,
+  "python_executable": "python_executable",
+  "save_users_list_cooldown": 86400000,
+  "anti_flood_cooldown": "10",
+  "debug_mode": true,
+  "download_Folder": "download_Folder",
+  "arl": "4c27387e9e0757cbddb33dc8c3c2e2707669c42857ca1c0a5d9947b5e1b0b4ac0fa816387283c8a3d0e49b1855cc118a43e60d0023cb4d578ea4b2cd4fde632d61d599b742d8d69cb6d7f7f174b30d94227b00d2f9fd4bba71fe9062184ca1ae", 
+}
